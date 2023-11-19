@@ -18,6 +18,10 @@ I'm Guillem Alqueza and I'm studying Video Game Design & Development at CITM (UP
 
 ## Projects
 
+<li> <a href="https://github.com/Mermelada-Games/Stelar"> ✨ Stelar
+<li> <a href="https://github.com/guillemalqueza/Mallow-Adventure"> 🩷 Mallow's Adventure
 <li> <a href="https://github.com/Festuk-Games/Shinobi"> 🥷 Shinobi
+<li> <a href="https://github.com/Torta-Games/Pinball"> 🩷 Neon Pinball
 <li> <a href="https://github.com/Festuk-Games/Flappy-Dragon"> 🐲 Flappy Dragon
+<li> <a href="https://github.com/Mermelada-Games/Prenent-Accio"> 🤝 Prenent Accio
 <li> <a href="https://github.com/Red-Balloon-Team/Kalyum"> 🎈 Kalyum
